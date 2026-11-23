@@ -25,7 +25,7 @@ El objetivo del proyecto es identificar patrones de uso, detectar comportamiento
 4. Ejecuta las celdas en orden, de arriba hacia abajo.
 
 ## Guía de reproducción
-1. Clona este repositorio: 'https://github.com/jzamorano11/sprint7-final-project.git
+1. Clona este repositorio: 'https://github.com/jzamorano11/sprint7-final-project.git'
 2. Importa las librerías: 'pandas','seaborn' y 'matplotlib.pyplot'
 3. Coloca los archivos 'plans.csv','users_latam.csv'y 'usage.csv' en la carpeta 'datasets/'
 4. Abre 'sprint7-final-project' y ejecuta todas las celdas
